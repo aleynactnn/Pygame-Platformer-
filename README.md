@@ -31,8 +31,8 @@ Collect all 5 golden coins while avoiding the frog enemies to win the game!
 ## 🎨 Screenshots
 
 <div align="center">
-  <img src="images/screenshot2.png" alt="Menu" width="400">
-  <img src="images/screenshot.png" alt="Gameplay" width="400">
+  <img src="screenshot.png" alt="Menu" width="400">
+  <img src="screenshot2.png" alt="Gameplay" width="400">
 </div>
 
 ## 🚀 Getting Started
@@ -85,8 +85,7 @@ Pygame-Platformer-/
 └── sounds/               # Sound effects
     ├── exploration.wav   # Background music
     └── handle_coins.wav  # Coin collection sound
-
-
+    
 ## 🛠️ Built With
 
 - *Python* - Programming language
