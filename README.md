@@ -59,32 +59,6 @@ pip install -r requirements.txt
 bash
 python main.py
 
-
-## 📁 Project Structure
-
-
-Pygame-Platformer-/
-│
-├── main.py                 # Main game file
-├── README.md              # This file
-├── requirements.txt       # Python dependencies
-│
-├── images/                # Game graphics
-│   ├── background.png     # Sunset background
-│   ├── menu_background.png
-│   ├── player/           # Mushroom character sprites
-│   │   ├── idle/         # Idle animation frames (8 frames)
-│   │   ├── run/          # Running animation (7 frames)
-│   │   └── jump/         # Jumping animation (6 frames)
-│   ├── enemies/          # Frog enemy sprites (9 frames)
-│   ├── items/            # Golden coin sprites (3 frames)
-│   └── tiles/            # Platform tiles
-│       ├── floor1.png
-│       └── floor2.png
-│
-└── sounds/               # Sound effects
-    ├── exploration.wav   # Background music
-    └── handle_coins.wav  # Coin collection sound
     
 ## 🛠️ Built With
 
